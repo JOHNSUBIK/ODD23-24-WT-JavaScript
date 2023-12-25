@@ -492,6 +492,7 @@ End the HTML structure.
 </html>
 ```
 ## OUTPUT:
-![6 html js ss](https://github.com/Bhuvanesh-Suresh/ODD23-24-WT-JavaScript/assets/145742661/4d7394b4-fbd7-4089-b654-fbbe0b1ee0c6)
+![Screenshot 2023-12-25 212512](https://github.com/JOHNSUBIK/ODD23-24-WT-JavaScript/assets/150279319/4b6c2c56-31ad-409e-a605-27cc3e361017)
+
 ## RESULT:
 Thus the java code executed to design a JavaScript program which displays error messages when a field in form is entered incorrectly.
