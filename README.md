@@ -18,7 +18,7 @@ Give the input type in the body of the HTML.
 ### STEP 7:
 End the HTML structure.
 ## PROGRAM:
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -69,7 +69,7 @@ End the HTML structure.
 
 </body>
 </html>
-
+```
 ## OUTPUT:
 ![1 html js ss](https://github.com/Bhuvanesh-Suresh/ODD23-24-WT-JavaScript/assets/145742661/b3e30705-e9c0-46c2-93e3-203e8f9b4a90)
 ## RESULT:
@@ -93,7 +93,7 @@ Give the input type in the body of the HTML.
 ### STEP 7:
 End the HTML structure.
 ## PROGRAM:
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -135,7 +135,7 @@ End the HTML structure.
 
 </body>
 </html>
-
+```
 ## OUTPUT:
 ![2 html js ss](https://github.com/Bhuvanesh-Suresh/ODD23-24-WT-JavaScript/assets/145742661/28640dda-0f78-4ce4-b27e-74457d8f530f)
 ## RESULT:
@@ -159,7 +159,7 @@ Give the input type in the body of the HTML.
 ### STEP 7:
 End the HTML structure.
 ## PROGRAM:
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -209,7 +209,7 @@ End the HTML structure.
 
 </body>
 </html>
-
+```
 ## OUTPUT:
 ![3 html js ss](https://github.com/Bhuvanesh-Suresh/ODD23-24-WT-JavaScript/assets/145742661/7ceab82b-52f7-449f-94eb-bf07bb88fc88)
 ## RESULT:
@@ -233,7 +233,7 @@ Give the input type in the body of the HTML.
 ### STEP 7:
 End the HTML structure.
 ## PROGRAM:
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -296,7 +296,7 @@ End the HTML structure.
 
 </body>
 </html>
-
+```
 ## OUTPUT:
 ![4 html js ss](https://github.com/Bhuvanesh-Suresh/ODD23-24-WT-JavaScript/assets/145742661/543ce7d3-bfb3-46c7-840f-3121d720d985)
 ## RESULT:
@@ -320,7 +320,7 @@ Give the input type in the body of the HTML.
 ### STEP 7:
 End the HTML structure.
 ## PROGRAM:
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -385,7 +385,7 @@ Simple Text Editor using JavaScript
 </form>
 </body>
 </html>
-
+```
 ## OUTPUT:
 ![5 html js ss](https://github.com/Bhuvanesh-Suresh/ODD23-24-WT-JavaScript/assets/145742661/16498d80-a62f-4d25-84e1-831cc5dc36ef)
 ## RESULT:
@@ -409,7 +409,7 @@ Give the input type in the body of the HTML.
 ### STEP 7:
 End the HTML structure.
 ## PROGRAM:
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -490,7 +490,7 @@ End the HTML structure.
 
 </body>
 </html>
-
+```
 ## OUTPUT:
 ![6 html js ss](https://github.com/Bhuvanesh-Suresh/ODD23-24-WT-JavaScript/assets/145742661/4d7394b4-fbd7-4089-b654-fbbe0b1ee0c6)
 ## RESULT:
